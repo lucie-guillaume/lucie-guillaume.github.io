@@ -120,7 +120,7 @@ a:hover {
 }
 
 strong, b {
-  color: #4a4fa2;
+  color: #3856aa;
   font-weight: 700;
 }
 
@@ -133,7 +133,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #4a4fa2;
+  color: #3856aa;
   font-weight: 700;
   line-height: 1em;
   margin: 0 0 0.5625em 0;
@@ -1487,7 +1487,7 @@ header.major h2 {
 }
 
 header.major h2 + p {
-  color: #4a4fa2;
+  color: #3856aa;
   font-size: 1.75em;
   font-weight: 700;
   margin-top: -0.75em;
@@ -1499,7 +1499,7 @@ form {
 }
 
 label {
-  color: #4a4fa2;
+  color: #3856aa;
   display: block;
   font-size: 0.9em;
   font-weight: 700;
@@ -1558,7 +1558,7 @@ select {
 }
 
 select option {
-  color: #4a4fa2;
+  color: #3856aa;
   background: #fff;
 }
 
@@ -2119,7 +2119,7 @@ table td {
 }
 
 table th {
-  color: #4a4fa2;
+  color: #3856aa;
   font-size: 0.9em;
   font-weight: 700;
   padding: 0 0.75em 0.75em 0.75em;
@@ -2244,7 +2244,7 @@ input[type="button"].alt,
 .button.alt {
   background-color: transparent;
   box-shadow: inset 0 0 0 2px #e4e4e4;
-  color: #4a4fa2 !important;
+  color: #3856aa !important;
 }
 
 input[type="submit"].alt:hover,
@@ -2252,7 +2252,7 @@ input[type="reset"].alt:hover,
 input[type="button"].alt:hover,
 .button.alt:hover {
   background-color: #f4f4f4;
-  color: #4a4fa2 !important;
+  color: #3856aa !important;
 }
 
 input[type="submit"].alt:active,
@@ -2353,8 +2353,8 @@ input[type="button"]:disabled,
   -webkit-justify-content: space-between;
   -ms-justify-content: space-between;
   justify-content: space-between;
-  background: #4a4fa2;
-  color: #d2d3e8;
+  background: #3856aa;
+  color: #cdd5ea;
   height: 100%;
   overflow-y: auto;
   position: fixed;
@@ -2373,11 +2373,11 @@ input[type="button"]:disabled,
 }
 
 #header header p {
-  color: #b7b9da;
+  color: #afbbdd;
 }
 
 #header a {
-  color: #d2d3e8;
+  color: #cdd5ea;
 }
 
 #header a:hover {
@@ -2404,7 +2404,7 @@ input[type="button"]:disabled,
 }
 
 #header > header p {
-  color: #d2d3e8;
+  color: #cdd5ea;
   font-style: italic;
   margin: 1em 0 0 0;
 }
@@ -2425,7 +2425,7 @@ input[type="button"]:disabled,
 }
 
 #header > footer .icons li a {
-  color: #b7b9da;
+  color: #afbbdd;
 }
 
 #header > nav {
@@ -2442,7 +2442,7 @@ input[type="button"]:disabled,
 }
 
 #header > nav ul li {
-  border-top: solid 2px #5c61ab;
+  border-top: solid 2px #4c67b3;
   display: block;
   padding: 0;
 }
@@ -2461,7 +2461,7 @@ input[type="button"]:disabled,
 
 #header > nav ul li a.active {
   background: #fff;
-  color: #4a4fa2 !important;
+  color: #3856aa !important;
 }
 
 #header > nav ul li:first-child {

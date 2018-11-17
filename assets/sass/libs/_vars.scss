@@ -31,7 +31,7 @@
 	$palette: (
 		bg:					#fff,
 		fg:					#888,
-		fg-bold:			#4a4fa2,
+		fg-bold:			#3856aa,
 		fg-light:			#aaa,
 		border:				#f4f4f4,
 		border-bg:			#fafafa,
@@ -55,10 +55,10 @@
 		),
 
 		header: (
-			bg:				#4a4fa2,
+			bg:				#3856aa,
 			fg-bold:		#ffffff,
-			fg:				mix(#4a4fa2, #ffffff, 25%),
-			fg-light:		mix(#4a4fa2, #ffffff, 40%),
-			border:			mix(#4a4fa2, #ffffff, 90%)
+			fg:				mix(#3856aa, #ffffff, 25%),
+			fg-light:		mix(#3856aa, #ffffff, 40%),
+			border:			mix(#3856aa, #ffffff, 90%)
 		)
 	);
