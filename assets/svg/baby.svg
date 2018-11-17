@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<svg version="1.1" width="60" height="60" viewBox="0 0 100 100" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
+	<circle cx="50" cy="50" fill="#ee6224" r="50"/>
+	<switch transform="scale(0.9,0.9) translate(5,5)" fill="#fff">
+		<foreignObject height="1" requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" width="1" x="0" y="0"/>
+		<g i:extraneous="self">
+			<path d="M64.5,19.8c0,7.8-6.3,14.1-14.1,14.1c-7.8,0-14.1-6.3-14.1-14.1c0-7.8,6.3-14.1,14.1-14.1C58.2,5.7,64.5,12,64.5,19.8"/>
+			<rect height="25.8" width="27.8" x="36.5" y="35.5"/>
+			<rect height="10.6" transform="matrix(0.7233 -0.6905 0.6905 0.7233 -9.7256 56.2976)" width="28.2" x="51.3" y="35"/>
+			<path d="M80.8,30.6c0,2.9-2.4,5.3-5.3,5.3c-2.9,0-5.3-2.4-5.3-5.3c0-2.9,2.4-5.3,5.3-5.3C78.4,25.3,80.8,27.7,80.8,30.6"/>
+			<rect height="10.6" transform="matrix(-0.7233 -0.6905 0.6905 -0.7233 31.7259 93.5842)" width="28.2" x="20.5" y="35.2"/>
+			<path d="M19.2,30.8c0,2.9,2.4,5.3,5.3,5.3c2.9,0,5.3-2.4,5.3-5.3c0-2.9-2.4-5.3-5.3-5.3C21.6,25.5,19.2,27.8,19.2,30.8"/>
+			<polygon points="37.5,84.2 27.5,75.5 36.5,65.2 46.6,73.8   "/>
+			<path d="M39.4,79.5c0,3.7-3,6.7-6.7,6.7c-3.7,0-6.7-3-6.7-6.7c0-3.7,3-6.7,6.7-6.7C36.4,72.9,39.4,75.9,39.4,79.5"/>
+			<rect height="11.4" transform="matrix(0.7722 0.6354 -0.6354 0.7722 62.1317 -4.37)" width="12.9" x="30.7" y="78.8"/>
+			<path d="M47.8,88.6c0,3.2-2.6,5.7-5.7,5.7c-3.2,0-5.7-2.6-5.7-5.7c0-3.2,2.6-5.7,5.7-5.7C45.3,82.8,47.8,85.4,47.8,88.6"/>
+			<polygon points="63.4,84.2 73.4,75.5 64.2,65.2 54.4,73.8   "/>
+			<path d="M61.5,79.5c0,3.7,3,6.7,6.7,6.7c3.7,0,6.7-3,6.7-6.7c0-3.7-3-6.7-6.7-6.7C64.4,72.9,61.5,75.9,61.5,79.5"/>
+			<rect height="11.4" transform="matrix(-0.7722 0.6354 -0.6354 -0.7722 166.6073 109.205)" width="12.9" x="57.3" y="78.8"/>
+			<path d="M53,88.6c0,3.2,2.6,5.7,5.7,5.7c3.2,0,5.7-2.6,5.7-5.7c0-3.2-2.6-5.7-5.7-5.7C55.6,82.8,53,85.4,53,88.6"/>
+			<rect height="5.4" width="1.2" x="36.5" y="61.1"/>
+			<rect height="1.2" width="14.6" x="42.1" y="72.7"/>
+			<rect height="5.4" width="1.2" x="63.1" y="61.1"/>
+		</g>
+	</switch>
+</svg>
+
