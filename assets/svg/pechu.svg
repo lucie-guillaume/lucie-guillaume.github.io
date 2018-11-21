@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<svg height="60" width="60" enable-background="new 0 0 20 20" version="1.1" viewBox="0 0 20 25" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
+	<circle cx="10" cy="12.5" fill="#ee6224" r="12.2"/>
+	<path transform="scale(0.8 0.8) translate(3 3)" d="M19.6,18h-1L11.1,4.6l1.7-3.1C13.1,1,13,0.4,12.5,0.1C12-0.1,11.4,0,11.1,0.5l-1.1,2l-1.1-2  C8.6,0,8-0.1,7.5,0.1C7,0.4,6.9,1,7.1,1.5l1.7,3.1L1.4,18h-1C0.2,18,0,18.2,0,18.4v1.2C0,19.8,0.2,20,0.4,20h19.2  c0.2,0,0.4-0.2,0.4-0.4v-1.2C20,18.2,19.8,18,19.6,18z M7,18l3-7l3,7H7z" fill="#fff"/>
+</svg>
+
