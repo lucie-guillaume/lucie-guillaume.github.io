@@ -28,18 +28,50 @@
 // Reset.
 // Based on meyerweb.com/eric/tools/css/reset (v2.0 | 20110126 | License: public domain)
 
-    .svgicons {
-        vertical-align:middle;
-        width: 2.5em;
-    }
-
     .no-bullet {
         list-style-type: none;
+        line-height: 2.5em;
+    }
+
+    li.ico {
+        padding: 0 0 0 3.5em;
+        background-size: 2.5em 2.5em !important;
     }
 
     li.church {
         background: url('../svg/church.svg') no-repeat left top;
-        padding: 0.5em 0 0 3.5em;
+    }
+
+    li.champagne {
+        background: url('../svg/champagne.svg') no-repeat left top;
+    }
+
+    li.miam_miam {
+        background: url('../svg/miam_miam.svg') no-repeat left top;
+    }
+
+    li.parking {
+        background: url('../svg/parking.svg') no-repeat left top;
+    }
+
+    li.voit {
+        background: url('../svg/voit.svg') no-repeat left top;
+    }
+
+    li.tchou_tchou {
+        background: url('../svg/tchou_tchou.svg') no-repeat left top;
+    }
+
+    li.pechu {
+        background: url('../svg/pechu.svg') no-repeat left top;
+    }
+
+    li.covoit {
+        background: url('../svg/covoit.svg') no-repeat left top;
+    }
+
+    li.baby {
+        background: url('../svg/baby.svg') no-repeat left top;
     }
 
 	html, body, div, span, applet, object,
