@@ -8,6 +8,13 @@
 .no-bullet {
   list-style-type: none;
   line-height: 2.5em;
+  padding-left: 0;
+}
+
+img.myimage {
+  display: block;
+  margin: auto;
+  width: 40%;
 }
 
 li.ico {
@@ -1939,7 +1946,7 @@ ol li {
 
 ul {
   list-style: disc;
-  margin: 0 0 2.25em 0;
+  margin: 2.25em 0 2.25em 0;
   padding-left: 1em;
 }
 
