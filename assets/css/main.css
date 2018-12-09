@@ -14,7 +14,14 @@
 img.myimage {
   display: block;
   margin: auto;
+}
+
+img.width40 {
   width: 40%;
+}
+
+img.width60 {
+  width: 60%;
 }
 
 li.ico {
