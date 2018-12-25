@@ -10,6 +10,7 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
         <link rel="stylesheet" href="assets/css/main.css" />
+        <link rel="stylesheet" href="assets/css/lightbox.min.css">
         <link rel="icon" type="image/png" href="assets/icons/favicon.ico" />
     </head>
     <body class="is-preload">
@@ -78,9 +79,7 @@
                                             <b><a href="https://goo.gl/maps/JrdiwsMad5N2" target="_blank">ce lien</a></b>.
                                         </li>
                                     </ul>
-                                    <a href="https://goo.gl/maps/JrdiwsMad5N2" target="_blank">
-                                        <img class="image myimage width40" src="images/thorigne1.jpg" alt="" />
-                                    </a>
+                                    <img class="image myimage width40" src="images/thorigne1.jpg" alt="" />
                                     <!-- <a href="#" class="image"><img src="images/thorigne1.jpg" alt="" /></a> -->
                                     <ul class="no-bullet">
                                         <li class="ico champagne">
@@ -105,7 +104,9 @@
                                             Des emplacements de parking sont indiqués par un <b>P</b> sur le plan ci-dessous.
                                             En revanche, vous ne pourrez pas rentrer dans la propriété en voiture.
                                         </li>
-                                    <img class="image myimage width60" src="images/plan.png" alt="" />
+                                    <a href="images/plan.png" data-lightbox="plan">
+                                        <img class="image myimage width60" src="images/plan.png" alt="" />
+                                    </a>
                                     </ul>
                                     <ul class="no-bullet">
                                         <li class="ico baby">
@@ -199,6 +200,7 @@
             <script src="assets/js/jquery.min.js"></script>
             <script src="assets/js/jquery.scrollex.min.js"></script>
             <script src="assets/js/jquery.scrolly.min.js"></script>
+            <script src="assets/js/lightbox.min.js"></script>
             <script src="assets/js/browser.min.js"></script>
             <script src="assets/js/breakpoints.min.js"></script>
             <script src="assets/js/util.js"></script>
